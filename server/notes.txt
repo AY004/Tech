@@ -1,0 +1,2 @@
+so far the controller, routes and model system is working well together. i can add and retreve articales.
+next i will try to connect to a front end.
